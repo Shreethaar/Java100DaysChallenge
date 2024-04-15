@@ -9,6 +9,7 @@ public class Main {
 		side=sc.nextInt();
 		double areaHex = (6*(side*side))/(4*Math.tan(Math.PI/6));
 		System.out.println("Area of the hexagon is: " + areaHex);
+		//testing 
 	}
 }
 
